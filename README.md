@@ -11,37 +11,40 @@
 
 
 ## Program Diagram Class
-![](gambar/diagramclass.png)
+![](dokumentasi/Diagramclass.png)
 
 
 ## Sistem Flowchart
-![](gambar/flowchart.png)
+![](dokumentasi/Flowchart.png)
 
 
 ## $${\color{lightBlue}\text{PYTHON}}$$
 
-![img](gambar/oop.png)
+![img](dokumentasi/oop.png)
 
 - ##  Hasil Tampilan Program
-- Berikut adalah ketika program dijalankan
+  ### Berikut adalah ketika program dijalankan
 
 
 * Menambahkan Data
 
-![img](gambar/tambah.png)
+![img](dokumentasi/Screenshot%202023-12-07%20135251.png)
 
-![img](gambar/tampil.png)
+![img](dokumentasi/Screenshot%202023-12-07%20135346.png)
 
 
 * Mengubah Data
 
-![img](gambar/ubah.png)
+![img](dokumentasi/Screenshot%202023-12-07%20135522.png)
+
+![img](dokumentasi/Screenshot%202023-12-07%20135609.png)
 
 
 * Menghapus Data
 
-![img](gambar/hapus.png)
+![img](dokumentasi/Screenshot%202023-12-07%20135702.png)
 
+![img](dokumentasi/Screenshot%202023-12-07%20135727.png)
 
 ### Penjelasannya : 
 
